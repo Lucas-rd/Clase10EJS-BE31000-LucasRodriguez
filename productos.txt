@@ -40,11 +40,5 @@
 		"price": 600,
 		"thumbnail": "https://crashcomics.es/35195-large_default/magic-escarlata.jpg",
 		"id": 7
-	},
-	{
-		"title": "Mazo commander 8",
-		"price": "800",
-		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppyXfL-xQqYjgo6ILYwMoOWPEk10RloyyZA&usqp=CAU",
-		"id": 8
 	}
 ]

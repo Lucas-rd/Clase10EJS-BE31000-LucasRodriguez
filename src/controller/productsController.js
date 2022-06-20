@@ -16,10 +16,7 @@ const getProductController = async (req, res) => {
 
 const postProductController = async (req, res) => {
     let productos = await contenedor.postProduct(req)
-    
-    let newProducts = await contenedor.getAll()
-
-    res.render('main.ejs', {productos: newProducts})
+    res.redirect('/productos')
 }
 
 export {postProductController, getProductController}
